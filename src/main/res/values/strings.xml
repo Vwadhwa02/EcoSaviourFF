@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">EcoSaViour</string>
+    <string name="title_activity_home">Home</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="Intro">Our app is an app comprising complete waste management features that provide a medium to access local details and waste management policies. The waste management app permits users to monitor.</string>
+    <string name="title_activity_about">About</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+    <string name="capture">capture</string>
+    <string name="SupportPagetxt">Call us On +91 9311114563 Or Mail on wadhwa.vaibhav11@gmail.com</string>
+    <string name="choose">Choose</string>
+</resources>
